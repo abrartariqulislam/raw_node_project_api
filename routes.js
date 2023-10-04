@@ -15,4 +15,5 @@ const routes = {
   user: userHandler,
 };
 
+// exports
 module.exports = routes;
